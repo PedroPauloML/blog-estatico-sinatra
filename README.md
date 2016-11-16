@@ -1,8 +1,8 @@
 # Blog Estático com Sinatra
 
-Este é um exemplo de como se criar um pequneo e simples blog estático com sinatra, tendo como base a metodologia do CRUD, com exceção do delete.
+Este é um exemplo de como se criar um pequeno e simples blog estático com sinatra, tendo como base a metodologia do CRUD, com exceção do delete.
 
-# Getting Start
+## Getting Start
 
 Para utilizar o Sinatra, é preciso primeiro instalar ele em sua máquina.
 
